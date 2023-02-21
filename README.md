@@ -20,9 +20,7 @@
 
 ## Currently learning
 
-<img style="height: 5rem; display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img style="height: 5rem; display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img style="height: 5rem; display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 <!---
 MatheusHG94/MatheusHG94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
