@@ -1,26 +1,27 @@
-- 👋 Hello there! I’m Matheus Henrique Grande
 
-- 👀 I’m interested in web development and game development, mainly, but I am also into other types of software development.
-- 🐦 Besides technology, I'm also interested in biology, wildlife studies and bird watching, having myself a bachelor's degree in Biological Sciences.
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript, among other topics about front-end development. I intend to look into Python in the near future.
-- 💞️ I’m looking to collaborate on projects with other fresh students, developing our skills together.
-- 📫 How to reach me: LinkedIn - /matheushg-7654 | Instagram - /mathg94
+## 👋 Hey there! I'm Matheus,
+
+- 📫 I'm studying systems analysis and development, trying to learn more about front-end dev.
+- I'm currently focused on practicing **ReactJS** for web apps, learning **PHP** and its relation to the web, while also studying **SQL**.
+- Right now I'm in search of an internship opportunity, in order to learn from professional developers.
+- When not studying, I like to read books, ride my bike and practice birdwatching 🐦.
+- Where to find me: LinkedIn - /matheushg-7654 | Instagram - /mathg94
 
 ---
 
-- 👋 Olá! Sou o Matheus Henrique Grande
+## 👋 E aí! Me chamo Matheus,
 
-- 👀 Estou interessado principalmente em desenvolvimento web e desenvolvimento de jogos, mas também em outros tipos de desenvolvimento de software.
-- 🐦 Além de tecnologia, também me interesso por biologia, estudos da vida selvagem e observação de aves, sendo graduado como bacharel em Ciências Biológicas.
-- 🌱 Estou aprendendo sobre HTML5, CSS3 e JavaScript, entre outros tópicos sobre desenvolvimento front-end. Pretendo estudar um pouco sobre Python no futuro próximo.
-- 💞️ Gostaria de colaborar com outros estudantes iniciantes, desenvolvendo nossas habilidades em conjunto.
-- 📫 Como me encontrar: LinkedIn - /matheushg-7654 | Instagram - /mathg94
+- 📫 Sou estudante de Análise e Desenvolvimento de Sistemas, buscando aprender mais sobre desenvolvimento front-end.
+- Atualmente estou me dedicando mais ao estudo de **ReactJS** para o desenvolvimento de aplicações web, **PHP** para entender a linguagem e sua relação com a web,e iniciando em **SQL**.
+- No momento procuro uma oportunidade de estágio, em busca de aprender com profissionais que atuam na área.
+- Quando não estou estudando, gosto de ler, andar de bicicleta e praticar observação de aves 🐦.
+- Onde me encontrar: LinkedIn - /matheushg-7654 | Instagram - /mathg94
 
 ---
 
 ## Currently learning
 
-<img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <img style="height: 5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
 <!---
 MatheusHG94/MatheusHG94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
